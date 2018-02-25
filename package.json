@@ -1,0 +1,14 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Alejandro Saenz",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "helmet": "^3.11.0",
+    "nodemon": "^1.15.1"
+  }
+}
